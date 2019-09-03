@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="26px" height="32px" viewBox="0 0 26 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.1 (67048) - http://www.bohemiancoding.com/sketch -->
+    <title>zurich</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="About" transform="translate(-36.000000, -1572.000000)">
+            <g id="Filter_Zurich" transform="translate(0.000000, 1553.000000)">
+                <g id="zurich" transform="translate(37.000000, 20.000000)">
+                    <path d="M0,0.0865384615 L0,17.8534615 C0,24.5503846 5.44961538,30 12.1476923,30 C18.8457692,30 24.2942308,24.5503846 24.2942308,17.8534615 L24.2942308,0.0865384615 L0,0.0865384615 Z" id="Path" stroke="#FFFFFF"></path>
+                    <path d="M0,0 L23.0769231,24.2307692 L19.6153846,27.6923077 C18.7220969,28.1389515 17.9528662,28.523567 17.3076923,28.8461538 C16.6625184,29.1687407 15.5086723,29.5533562 13.8461538,30 C12.5641026,30 11.4102564,30 10.3846154,30 C9.35897436,30 7.82051282,29.6153847 5.76923077,28.8461538 L0,21.9230769 L0,0 Z" id="Path-2" fill="#FFFFFF"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
